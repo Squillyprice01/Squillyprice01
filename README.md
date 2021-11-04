@@ -6,8 +6,6 @@ This is my ✨ _special_ ✨, personal README!
 
 <br>
 
-As you can see, I currently have *nothing* to contribute in terms of wit or content. Move along.
-
 <!--
 **Squillyprice01/Squillyprice01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
